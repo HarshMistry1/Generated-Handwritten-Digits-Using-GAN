@@ -3,7 +3,7 @@
 
 By using this project you can generate numbers which will completely different than we expect.  
 
-https://github.com/HarshMistry1/Data_science_projects/blob/master/Handwritten%20Digits%20Generation%20Using%20G.A.N/gan_model.gif
+https://github.com/HarshMistry1/Generated-Handwritten-Digits-Using-GAN/blob/master/gan_model.gif
 
 
 ## Installation
@@ -22,13 +22,13 @@ https://github.com/HarshMistry1/Data_science_projects/blob/master/Handwritten%20
 ## Final Results
 
 ### Generated Image at Epoch-1
-https://github.com/HarshMistry1/Data_science_projects/blob/master/Handwritten%20Digits%20Generation%20Using%20G.A.N/Generated%20image%20at%20epoch-1.png
+https://github.com/HarshMistry1/Generated-Handwritten-Digits-Using-GAN/blob/master/Generated%20image%20at%20epoch-1.png
 
 ### Generated Image at Epoch-20
-https://github.com/HarshMistry1/Data_science_projects/blob/master/Handwritten%20Digits%20Generation%20Using%20G.A.N/Generated%20image%20at%20epoch-20.png
+https://github.com/HarshMistry1/Generated-Handwritten-Digits-Using-GAN/blob/master/Generated%20image%20at%20epoch-20.png
 
 ### Generated Image at Epoch-40
-https://github.com/HarshMistry1/Data_science_projects/blob/master/Handwritten%20Digits%20Generation%20Using%20G.A.N/Generated%20image%20at%20epoch-40.png
+https://github.com/HarshMistry1/Generated-Handwritten-Digits-Using-GAN/blob/master/Generated%20image%20at%20epoch-40.png
 
 ## Contributed by
 
